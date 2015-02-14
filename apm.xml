@@ -1,0 +1,348 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+apm
+</name>
+</assembly>
+<members>
+<member name="T:apm.purchasingDataSet.itemDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:apm.purchasingDataSet.item_bufferDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:apm.purchasingDataSet.item_hargaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:apm.purchasingDataSet.item_jenisDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:apm.purchasingDataSet.item_unitDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:apm.purchasingDataSet.orderDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:apm.purchasingDataSet.order_itemDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:apm.purchasingDataSet.penggunaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:apm.purchasingDataSet.pengguna_jenisDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:apm.purchasingDataSet.receiveDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:apm.purchasingDataSet.receive_itemDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:apm.purchasingDataSet.receive_item_surat_jalanDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:apm.purchasingDataSet.requirementDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:apm.purchasingDataSet.requirement_itemDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:apm.purchasingDataSet.returnDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:apm.purchasingDataSet.return_itemDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:apm.purchasingDataSet.supplierDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:apm.purchasingDataSet.surat_jalanDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:apm.purchasingDataSet.itemRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:apm.purchasingDataSet.item_bufferRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:apm.purchasingDataSet.item_hargaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:apm.purchasingDataSet.item_jenisRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:apm.purchasingDataSet.item_unitRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:apm.purchasingDataSet.orderRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:apm.purchasingDataSet.order_itemRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:apm.purchasingDataSet.penggunaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:apm.purchasingDataSet.pengguna_jenisRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:apm.purchasingDataSet.receiveRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:apm.purchasingDataSet.receive_itemRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:apm.purchasingDataSet.receive_item_surat_jalanRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:apm.purchasingDataSet.requirementRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:apm.purchasingDataSet.requirement_itemRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:apm.purchasingDataSet.returnRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:apm.purchasingDataSet.return_itemRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:apm.purchasingDataSet.supplierRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:apm.purchasingDataSet.surat_jalanRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:apm.purchasingDataSet.itemRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:apm.purchasingDataSet.item_bufferRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:apm.purchasingDataSet.item_hargaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:apm.purchasingDataSet.item_jenisRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:apm.purchasingDataSet.item_unitRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:apm.purchasingDataSet.orderRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:apm.purchasingDataSet.order_itemRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:apm.purchasingDataSet.penggunaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:apm.purchasingDataSet.pengguna_jenisRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:apm.purchasingDataSet.receiveRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:apm.purchasingDataSet.receive_itemRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:apm.purchasingDataSet.receive_item_surat_jalanRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:apm.purchasingDataSet.requirementRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:apm.purchasingDataSet.requirement_itemRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:apm.purchasingDataSet.returnRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:apm.purchasingDataSet.return_itemRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:apm.purchasingDataSet.supplierRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:apm.purchasingDataSet.surat_jalanRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:apm.purchasingDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:apm.purchasingDataSetTableAdapters.itemTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:apm.purchasingDataSetTableAdapters.item_bufferTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:apm.purchasingDataSetTableAdapters.item_hargaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:apm.purchasingDataSetTableAdapters.item_jenisTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:apm.purchasingDataSetTableAdapters.item_unitTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:apm.purchasingDataSetTableAdapters.orderTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:apm.purchasingDataSetTableAdapters.order_itemTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:apm.purchasingDataSetTableAdapters.penggunaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:apm.purchasingDataSetTableAdapters.pengguna_jenisTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:apm.purchasingDataSetTableAdapters.receiveTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:apm.purchasingDataSetTableAdapters.receive_itemTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:apm.purchasingDataSetTableAdapters.receive_item_surat_jalanTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:apm.purchasingDataSetTableAdapters.requirementTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:apm.purchasingDataSetTableAdapters.requirement_itemTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:apm.purchasingDataSetTableAdapters.returnTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:apm.purchasingDataSetTableAdapters.return_itemTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:apm.purchasingDataSetTableAdapters.supplierTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:apm.purchasingDataSetTableAdapters.surat_jalanTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:apm.purchasingDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(apm.purchasingDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:apm.purchasingDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(apm.purchasingDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:apm.purchasingDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(apm.purchasingDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:apm.purchasingDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:apm.purchasingDataSetTableAdapters.TableAdapterManager.UpdateAll(apm.purchasingDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:apm.purchasingDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:apm.purchasingDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:apm.purchasingDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:apm.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:apm.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:apm.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
